@@ -4,7 +4,8 @@
 - 👯 I’m looking to collaborate on flutter or react js projects
 - 💬 Ask me about anything, I'll be more than happy to help.
 - 📫 How to reach me: 
-https://img.shields.io/badge/https://www.linkedin.com/in/eyanani/?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=EYANANI&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=Follow&logoColor=white
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
