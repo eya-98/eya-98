@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I'll be more than happy to help.
 - 📫 How to reach me: 
 [![Linkedin: eyanani](https://img.shields.io/badge/-EyaNani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eyanani/)](https://www.linkedin.com/in/EYANANI-4634771b7/)
-[![GitHub eyanani](https://img.shields.io/github/followers/eyanani?label=follow&style=social)](https://github.com/EyaNani)
+[![GitHub eyanani](https://img.shields.io/github/followers/eyanani?label=follow&style=social)](https://github.com/eya-98)
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 - 😄 Pronouns: ...
