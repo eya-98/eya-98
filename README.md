@@ -35,7 +35,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 #### ⚙️ Tools & Technologies
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=flat&logo=data:image/png;base64,iVBORw0KGgo=) 
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=flat)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -77,6 +77,12 @@
 
 ---
 
+### ✍️ Writing
+I share insights about data analytics, visualization, and automation on [**Medium**](https://medium.com/@eya.nani).  
+Check out my latest articles on topics like **Python for Data Cleaning**, **ETL Automation**, and **Power BI Dashboards**.
+
+---
+
 ### 🤝 Let’s Collaborate On
 - Data analysis and visualization projects  
 - Risk & compliance reporting (AML, KYC)  
@@ -88,4 +94,12 @@
 <p align="center">
   <a href="mailto:nanieya98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/eyanani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="htt
+  <a href="https://github.com/eyanani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@eya.nani"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>Passionate about transforming data into meaningful stories that empower smarter decisions.</i> ✨
+</p>
