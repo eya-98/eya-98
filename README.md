@@ -47,9 +47,10 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 
 #### 🌐 Other Skills
-- **Web Scraping** (APIs, automation, and data ingestion)  
-- **Microsoft Office Suite** (Advanced Excel, PowerPoint)  
-- **Reporting & Presentation** (data storytelling and insights)
+- **Flutter & Firebase:** Built a B2C/C2C marketplace app with Firestore, Authentication & Realtime Database.  
+- **Web Development:** Experience with HTML, CSS, JavaScript, and TypeScript for interactive dashboards and interfaces.  
+- **API Development:** Created RESTful APIs to automate reporting and integrate external data sources.  
+- **UI/UX Tools:** Figma, Canva, Photoshop for dashboard and report design.
 
 ---
 
