@@ -3,7 +3,7 @@
 
 <p align="center">
   💼 <b>Data Analyst | Risk & Compliance Analytics</b><br>
-  📍 Turning data into insights with Python, SQL, Power BI & AWS
+  📍 Based in Spain | Turning data into insights with Python, SQL, Power BI & AWS
 </p>
 
 ---
